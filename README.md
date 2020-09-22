@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Kewaii</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kewaiigamer" alt="kewaiigamer" /> </p>
 
 - 🔭 I’m currently working on [TugaStrikes](https://github.com/TugaStrikes)
@@ -10,9 +9,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kewaiigamer&layout=compact" alt="kewaiigamer" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kewaiigamer&show_icons=true" alt="kewaiigamer" /></p>
-
-<p align="center">
-<a href="https://twitter.com/kewaiigamer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kewaiigamer" height="30" width="30" /></a>
-<a href="https://instagram.com/kewaiigamer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kewaiigamer" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/kewaiigamer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="kewaiigamer" height="30" width="30" /></a>
-</p>
